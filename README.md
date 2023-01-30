@@ -1,4 +1,3 @@
-# ms_auth-users
- microservices
+microservices
  
 ## Аутентификация пользователя в системе
